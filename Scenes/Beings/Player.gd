@@ -2,6 +2,7 @@ extends KinematicBody2D
 
 var motion = Vector2.ZERO
 var speed = 200
+var hp = 3
 var jumps = 2
 var isAttacking = false
 var attackPosition = 29.25
